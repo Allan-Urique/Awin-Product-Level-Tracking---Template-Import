@@ -254,8 +254,10 @@ if (typeof transactionProducts == "object") {
     }
     
     var productSku;
-    if(transactionProducts[i].sku == undefined || sku == undefined){
-      productSku = transactionProducts[i].id;
+    if(sku == undefined){
+      if(transactionProducts[i].sku == undefined){
+        productSku = transactionProducts[i].id;
+      }
     } else {
       productSku = transactionProducts[i][sku];
     }
