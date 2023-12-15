@@ -88,7 +88,7 @@ ___TEMPLATE_PARAMETERS___
     "name": "overrideDatafields",
     "checkboxText": "Override Default Product Properties",
     "simpleValueType": true,
-    "help": "By default the tag will look for \"id\", \"name\", \"price\", \"category\", \"quantity\" and \"sku\" in the products Array. If you use different names, enable the override and inform the corresponding properties."
+    "help": "By default the tag will look for \"id\", \"name\", \"price\", \"category\", \"quantity\" and \"sku\" in the products Array. If you use different names for product properties, enable the override and inform the corresponding properties. For exapmle, if instead of \"id\" you use \"item_id\" you can override that property by simply passing the correct property name in the field"
   },
   {
     "type": "TEXT",
