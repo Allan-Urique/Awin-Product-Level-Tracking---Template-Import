@@ -1,4 +1,4 @@
-![image](https://github.com/Allan-Urique/Awin-Product-Level-Tracking---Template-Import/assets/31394670/71bd8562-3005-4bb5-b4cf-1fe08cfdf4bf)# Awin-Product-Level-Tracking---Template-Import
+# Awin-Product-Level-Tracking---Template-Import
 The necessary file to import the PLT only tag.
 
 * Simply download the file via zip archive using the green button.
