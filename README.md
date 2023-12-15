@@ -1,4 +1,4 @@
-# Awin-Product-Level-Tracking---Template-Import
+![image](https://github.com/Allan-Urique/Awin-Product-Level-Tracking---Template-Import/assets/31394670/71bd8562-3005-4bb5-b4cf-1fe08cfdf4bf)# Awin-Product-Level-Tracking---Template-Import
 The necessary file to import the PLT only tag.
 
 * Simply download the file via zip archive using the green button.
@@ -27,7 +27,7 @@ If however your products array has custom properties, like the following:
 "products": [
   {
     "item_id": "925678982567899",
-    "item_title": "Test Product 1",
+    "item_listing": "Test Product 1",
     "price": "100",
     "quantity": "1",
     "sku": "987654674859650",
@@ -35,4 +35,7 @@ If however your products array has custom properties, like the following:
   }
 ]
 
-You can override the product properties to map the Product ID to "item_id", and the Product Name to "item_title".
+You can override the product properties to map the Product ID to "item_id", and the Product Name to "item_listing", like the following:
+
+![image](https://github.com/Allan-Urique/Awin-Product-Level-Tracking---Template-Import/assets/31394670/0a2565d9-1f14-4fec-9ca3-86aee8f12f96)
+
